@@ -1,0 +1,140 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.top_container{
+    background-color: #e9f1fa;
+    padding: 20px;
+    padding-top: 20px;
+}
+
+
+.top_cloud{
+
+     position: relative;
+     left: 230px;
+     padding-top: 70px;
+}
+
+.bottom_cloud{
+     position: absolute;
+ }
+
+h1{
+    font-size: 5.625rem; /*16px = 100% = 1em/rem*/
+    font-family: 'Dancing Script', cursive;
+    margin: 50px auto 0 auto;
+    color: #69d1d1;
+}
+
+h3{
+    font-family: 'Langar', cursive;
+    color: #11999E;
+
+}
+h2{
+    font-family: 'EB Garamond', serif;
+    font-size: 2.5rem;
+    color: #69d1d1;
+}
+
+p{
+    font-family: 'Indie Flower', cursive;
+    font-weight: bold;
+}
+
+
+span{
+
+    color:  #66a7a7;
+}
+
+.subtitle{
+    font-weight: normal;
+
+
+}
+
+
+a{
+    color: #11999E;
+    text-decoration: none;
+    /* padding: 15px 8px 0px 8px; */
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+
+}
+
+
+
+.skill_1{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.skill_2{
+    width: 25%;
+    float: right;
+    margin: 28px auto auto 30px;
+
+}
+
+.bottom-container{
+    background-color: #66BFBF;
+    margin-top: 70px;
+    padding-top: 40px;
+}
+
+.btn{
+    border-radius: 5px;
+    padding: 6px 12px 6px 12px;
+    background: linear-gradient(to bottom,  #66BFBF, #5eaaaa);
+    color: #EAF6F6;
+    margin: 50px;
+    font-weight: bold;
+}
+
+.bottom-container p{
+    color: #EAF6F6;
+    padding: 25px;
+
+
+}
+
+.contact-me p{
+    margin-bottom: 50px;
+}
+hr{
+    border-style: none;
+    border-top: dotted;
+    width: 8%;
+    margin: 40px auto 80px auto;
+    color: #ced3d3;
+    border-width: 9px;
+}
+
+.middle-container img{
+    margin: 30px;
+}
+
+.desc{
+    width: 30%;
+    margin: 20px auto 100px auto;
+    font-weight: bold;
+}
+
+.contact-me h2,h3,a{
+margin: 28px;
+}
